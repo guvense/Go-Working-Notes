@@ -1,4 +1,4 @@
-# GO WORKING NOTES :factory:
+## GO WORKING NOTES :factory:
 
  Head first GO
 
